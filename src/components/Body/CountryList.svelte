@@ -2,6 +2,7 @@
   //   import "dotenv/config";
   import { onMount } from "svelte";
   import Country from "./Country.svelte";
+  import { API_KEY } from "../../../api.json";
 
   let countryList = [];
 
@@ -12,7 +13,7 @@
     const options = {
       method: "GET",
       headers: {
-        "X-RapidAPI-Key": process.env.API_KEY,
+        "X-RapidAPI-Key": API_KEY,
         "X-RapidAPI-Host":
           "vaccovid-coronavirus-vaccine-and-treatment-tracker.p.rapidapi.com",
       },

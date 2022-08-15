@@ -5,6 +5,8 @@
 <script>
   // @ts-nocheck
 
+  import { API_KEY } from "../../../api.json";
+
   import { onMount } from "svelte";
   export let compteur = 0;
   export let country = {
@@ -22,7 +24,7 @@
     const options = {
       method: "GET",
       headers: {
-        "X-RapidAPI-Key": process.env.API_KEY,
+        "X-RapidAPI-Key": API_KEY,
         "X-RapidAPI-Host": "country-flags.p.rapidapi.com",
       },
     };

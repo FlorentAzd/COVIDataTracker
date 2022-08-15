@@ -13,7 +13,7 @@
 <style>
   .all {
     transition: all ease 1s;
-    position: absolute;
+    position: fixed;
     height: 100vh;
     width: 280px;
     background-color: #f5f5f5;
