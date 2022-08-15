@@ -4,7 +4,7 @@
 
 <p align="center">👷 Debut de construction 15/08/22</p>
 
-Pour consulter la BETA du site web cliquer <a href="covid-tracker-africa.vercel.app">ICI</a>
+Pour consulter la BETA du site web cliquer <a href="https://covid-tracker-africa.vercel.app">ICI</a>
 
 ## Capture d'écran du projet
 
