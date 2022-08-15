@@ -2,7 +2,7 @@
 
 <p align="center">🚧🚧🚧Site web en cours de développement...🚧🚧🚧</p>
 
-<p align="center">👷 Debut de construction 14/08/22</p>
+<p align="center">👷 Debut de construction 15/08/22</p>
 
 Pour consulter la BETA du site web cliquer <a href="covid-tracker-africa.vercel.app">ICI</a>
 
